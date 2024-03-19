@@ -192,4 +192,5 @@
     <string name="location_about">Sobre</string>
     <string name="grid_columns">Colunas</string>
     <string name="action_close">Fechar</string>
+    <string name="status_completed">Concluído</string>
 </resources>

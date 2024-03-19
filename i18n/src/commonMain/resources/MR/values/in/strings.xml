@@ -70,4 +70,16 @@
     <string name="action_retry">Coba lagi</string>
     <string name="action_search">Cari</string>
     <string name="action_searching">Cari…</string>
+    <string name="action_more_actions">Tindakan lainnya</string>
+    <string name="action_ok">Oke</string>
+    <string name="action_download">Unduh</string>
+    <string name="action_remove_bookmark">Hapus bookmark dari buku</string>
+    <string name="action_mark_previous_read">Tandai sebelumnya sebagai sudah dibaca</string>
+    <string name="action_select_all">Pilih semua</string>
+    <string name="action_select_inverse">Pilih terbalik</string>
+    <string name="action_update_library">Perbarui perpustakaan</string>
+    <string name="action_open_in_browser">Buka di Browser</string>
+    <string name="action_filter">Saring</string>
+    <string name="action_mark_as_read">Tandai sebagai sudah dibaca</string>
+    <string name="action_mark_as_unread">Tandai sebagai belum dibaca</string>
 </resources>
