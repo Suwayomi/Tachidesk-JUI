@@ -214,4 +214,20 @@
     <string name="host_settings_sub">การตั้งค่าด้านล่างคือการกำหนดค่าภายในของ Tachidesk-Server</string>
     <string name="server_path_prefix_sub">คำนำหน้าเส้นทางที่จะใช้ก่อนเส้นทางปลายทาง สามารถเว้นว่างไว้หากไม่ได้ใช้</string>
     <string name="server_path_prefix">คำนำหน้าเส้นทางเซิร์ฟเวอร์</string>
+    <string name="action_filter">ตัวกรอง</string>
+    <string name="filter_downloaded">ดาวน์โหลดแล้ว</string>
+    <string name="location_about">เกี่ยวกับ</string>
+    <string name="host_download_path">พื้นที่จัดเก็บไฟล์ดาวน์โหลด</string>
+    <string name="clear_chapter_cache">ล้างข้อมูล</string>
+    <string name="action_download">ดาวน์โหลด</string>
+    <string name="download_all">ทั้งหมด</string>
+    <string name="host_download_as_cbz">ดาน์โหลด (CBZ)</string>
+    <string name="filter_completed">จบแล้ว</string>
+    <string name="status_cancelled">ยกเลิก</string>
+    <string name="display_badge_downloaded">ดาวน์โหลดตอนนี้แล้ว</string>
+    <string name="sort_alphabetical">เรียงตามตัวอักษร</string>
+    <string name="theme_default">ค่าเริ่มต้น</string>
+    <string name="library_display">การแสดงผล</string>
+    <string name="clear_image_cache">ล้างข้อมูลรูปภาพ</string>
+    <string name="sort_date_added">วันที่เพิ่ม</string>
 </resources>

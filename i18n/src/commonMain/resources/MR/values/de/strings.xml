@@ -291,4 +291,7 @@
     <string name="server_port">Server-PORT</string>
     <string name="other">Sonstige</string>
     <string name="nav_prev_chapter">Vorheriges Kapitel</string>
+    <string name="action_open_in_browser">Im Browser öffnen</string>
+    <string name="host_download_as_cbz">Herunterladen als CBZ</string>
+    <string name="host_download_as_cbz_sub">Kapitel in einem CBZ-Archiv herunterladen</string>
 </resources>

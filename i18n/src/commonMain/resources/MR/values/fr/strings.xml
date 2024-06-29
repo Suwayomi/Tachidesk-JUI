@@ -290,4 +290,5 @@
     <string name="channel_downloading">Progrès</string>
     <string name="disabled">Désactivée</string>
     <string name="action_move_down">Descendre</string>
+    <string name="action_select_inverse">Selectionner invers (?)</string>
 </resources>
