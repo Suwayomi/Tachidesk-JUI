@@ -331,4 +331,7 @@
     <string name="update_manga_info_sub">Actualizar la información del manga junto con los capítulos del manga en la actualización de la biblioteca</string>
     <string name="host_backup_path_sub_empty">Utilizar una ruta para la copia de seguridad por defecto</string>
     <string name="host_local_source_path_sub_empty">Utilizar la ruta de origen local por defecto</string>
+    <string name="host_root_path_sub">Ruta root actual: %1$s</string>
+    <string name="host_root_path">Ruta root</string>
+    <string name="host_root_path_sub_empty">Usando la ruta root predeterminada</string>
 </resources>

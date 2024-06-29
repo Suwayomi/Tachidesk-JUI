@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_update_message">%1$s ഇപ്പോൾ ലഭ്യമാണ്!</string>
+    <string name="downloads_remaining">%1$d ശേഷിക്കുന്നു</string>
+    <string name="settings_appearance">രൂപം</string>
+    <string name="settings_backup">ബാക്കപ്പ്</string>
+    <string name="location_about">കുറിച്ച്</string>
+    <string name="settings_appearance_screen">രൂപഭാവ ക്രമീകരണങ്ങൾ</string>
+    <string name="sort_alphabetical">അക്ഷരമാലാക്രമത്തിൽ</string>
+</resources>
